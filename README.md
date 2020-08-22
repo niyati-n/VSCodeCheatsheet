@@ -44,8 +44,6 @@
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+Shift+ M </h4>
 
-<img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> //11. f8 and shift+f8 <br/>
-
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Alt + Click and Ctrl+Alt+ ↑ / ↓ and Ctrl+U </h4>
 
@@ -81,9 +79,6 @@
 
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+ / </h4>
-
-<h4>
-<img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+K ← / → </h4>
 
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+K P and Ctrl+K R </h4>
