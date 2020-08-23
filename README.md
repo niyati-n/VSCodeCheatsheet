@@ -13,6 +13,8 @@
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" />  Ctrl+Shift+P, F1</h4>
 
+<img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/1.gif" width="400" height="250"/>
+
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+, 
 </h4>
