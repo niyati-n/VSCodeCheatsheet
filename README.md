@@ -12,7 +12,18 @@
 
 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/blackcrabb) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-## Programmer
+---
+
+# Table Of Content
+
+- [Programmer](#programmer)
+ * [Basic](#basic)
+  * [Navigation](#navigation)
+  * [Search and Replace](#search-and-replace)
+  * [Display](#display)
+
+
+# Programmer
 
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" />  Ctrl+Shift+P, F1</h4>
@@ -166,13 +177,15 @@ This key shortcut is to see all **Keyboard Shortcuts**.
 
 ## Basic
 
-<h5>Ctrl+Shift+Knbsp;&nbsp;Delete line</h5>
+
+<h5>Ctrl+Shift+K &nbsp;&nbsp;Delete line</h5>
 <h5>Ctrl+Enter&nbsp;&nbsp;Insert line below</h5>
 <h5>Ctrl+Shift+Enter&nbsp;&nbsp;Insert line above</h5>
 <h5>Shift+Alt+A &nbsp;&nbsp;Toggle block comment</h5>
 <h5>Alt+Z&nbsp;&nbsp;Toggle word wrap</h5>
 <h5>Ctrl+.&nbsp;&nbsp;Quick Fix</h5>
 <h5>Ctrl+F4,Ctrl+W&nbsp;&nbsp;Close editor</h5>
+
 
 ## Navigation
 
