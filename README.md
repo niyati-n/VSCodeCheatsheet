@@ -162,36 +162,36 @@ This key shortcut is to see all **Keyboard Shortcuts**.
 
 ## Basic
 
-<h5>Ctrl+Shift+K        Delete line</h5>
-<h5>Ctrl+Enter          Insert line below</h5>
-<h5>Ctrl+Shift+Enter    Insert line above</h5>
-<h5>Shift+Alt+A         Toggle block comment</h5>
-<h5>Alt+Z               Toggle word wrap</h5>
-<h5>Ctrl+.              Quick Fix</h5>
-<h5>Ctrl+F4,Ctrl+W      Close editor</h5>
+<h5>Ctrl+Shift+Knbsp;&nbsp;Delete line</h5>
+<h5>Ctrl+Enter&nbsp;&nbsp;Insert line below</h5>
+<h5>Ctrl+Shift+Enter&nbsp;&nbsp;Insert line above</h5>
+<h5>Shift+Alt+A &nbsp;&nbsp;Toggle block comment</h5>
+<h5>Alt+Z&nbsp;&nbsp;Toggle word wrap</h5>
+<h5>Ctrl+.&nbsp;&nbsp;Quick Fix</h5>
+<h5>Ctrl+F4,Ctrl+W&nbsp;&nbsp;Close editor</h5>
 
 ## Navigation
 
-<h5>Ctrl+T          Show all Symbols</h5>
-<h5>Ctrl+G          Go to Line</h5>
-<h5>Ctrl+P          Go to File</h5>
-<h5>Ctrl+Shift+O    Go to Symbol</h5>
+<h5>Ctrl+T&nbsp;&nbsp;Show all Symbols</h5>
+<h5>Ctrl+G&nbsp;&nbsp;Go to Line</h5>
+<h5>Ctrl+P&nbsp;&nbsp;Go to File</h5>
+<h5>Ctrl+Shift+O&nbsp;&nbsp;Go to Symbol</h5>
 
 ## Search and Replace
 
-<h5>Ctrl+F            Find</h5>
-<h5>Ctrl+H            Replace</h5>
-<h5>F3 / Shift+F3     Find next/previous</h5>
-<h5>Alt+Enter         Select all occurences of Find match</h5>
+<h5>Ctrl+F&nbsp;&nbsp;Find</h5>
+<h5>Ctrl+H&nbsp;&nbsp;Replace</h5>
+<h5>F3 / Shift+F3&nbsp;&nbsp;Find next/previous</h5>
+<h5>Alt+Enter&nbsp;&nbsp;Select all occurences of Find match</h5>
 
 ## Display
 
-<h5>Ctrl+Shift+E    Show Explorer / Toggle focus</h5>
-<h5>Ctrl+Shift+F    Show Search</h5>
-<h5>Ctrl+Shift+G    Show Source Control</h5>
-<h5>Ctrl+Shift+D    Show Debug</h5>
-<h5>Ctrl+Shift+X    Show Extensions</h5>
-<h5>Ctrl+Shift+H    Replace in files</h5>
-<h5>Ctrl+Shift+J    Toggle Search details</h5>
-<h5>Ctrl+Shift+U    Show Output panel</h5>
-<h5>Ctrl+Shift+V    Open Markdown preview</h5>
+<h5>Ctrl+Shift+E&nbsp;&nbsp;Show Explorer / Toggle focus</h5>
+<h5>Ctrl+Shift+F&nbsp;&nbsp;Show Search</h5>
+<h5>Ctrl+Shift+G&nbsp;&nbsp;Show Source Control</h5>
+<h5>Ctrl+Shift+D&nbsp;&nbsp;Show Debug</h5>
+<h5>Ctrl+Shift+X&nbsp;&nbsp;Show Extensions</h5>
+<h5>Ctrl+Shift+H&nbsp;&nbsp;Replace in files</h5>
+<h5>Ctrl+Shift+J&nbsp;&nbsp; Toggle Search details</h5>
+<h5>Ctrl+Shift+U&nbsp;&nbsp;Show Output panel</h5>
+<h5>Ctrl+Shift+V&nbsp;&nbsp;Open Markdown preview</h5>
