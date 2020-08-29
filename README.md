@@ -225,8 +225,7 @@ This key shortcut is to see all **Keyboard Shortcuts**.
 <br>
 <br>
 
-#### [How to Contribute](https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Contributing.md)
+## [How to Contribute](https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Contributing.md)
 <br>
-# If this repository is useful fo you , do star this repository.
-<br>
-### Thanks!
+<h3>If this repository is useful fo you , do star this repository.<h3>
+<h3>Thanks!<h3>
