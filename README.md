@@ -16,7 +16,7 @@
 
 # Table Of Content
 
-- [Programmer](#programmer)
+ * [Programmer](#programmer)
  * [Basic](#basic)
   * [Navigation](#navigation)
   * [Search and Replace](#search-and-replace)
@@ -178,37 +178,45 @@ This key shortcut is to see all **Keyboard Shortcuts**.
 ## Basic
 
 
-<h5>Ctrl+Shift+K &nbsp;&nbsp;Delete line</h5>
-<h5>Ctrl+Enter&nbsp;&nbsp;Insert line below</h5>
-<h5>Ctrl+Shift+Enter&nbsp;&nbsp;Insert line above</h5>
-<h5>Shift+Alt+A &nbsp;&nbsp;Toggle block comment</h5>
-<h5>Alt+Z&nbsp;&nbsp;Toggle word wrap</h5>
-<h5>Ctrl+.&nbsp;&nbsp;Quick Fix</h5>
-<h5>Ctrl+F4,Ctrl+W&nbsp;&nbsp;Close editor</h5>
+| Shortcut         | Description          |   
+|------------------|----------------------|
+| Ctrl+Shift+K     | Delete line          |   
+| Ctrl+Enter       | Insert line below    |   
+| Ctrl+Shift+Enter | Insert line above    |   
+| Shift+Alt+A      | Toggle block comment |   
+| Alt+Z            | Toggle word wrap     |   
+| Ctrl+.           | Quick Fix            |   
+| Ctrl+F4,Ctrl+W   | Close editor         |   
 
 
 ## Navigation
 
-<h5>Ctrl+T&nbsp;&nbsp;Show all Symbols</h5>
-<h5>Ctrl+G&nbsp;&nbsp;Go to Line</h5>
-<h5>Ctrl+P&nbsp;&nbsp;Go to File</h5>
-<h5>Ctrl+Shift+O&nbsp;&nbsp;Go to Symbol</h5>
-
+| Shortcut     | Description      |   
+|--------------|------------------|
+| Ctrl+T       | Show all Symbols |   
+| Ctrl+G       | Go to Line       |
+| Ctrl+P       | Go to File       |   
+| Ctrl+Shift+O | Go to Symbol     |   
 ## Search and Replace
 
-<h5>Ctrl+F&nbsp;&nbsp;Find</h5>
-<h5>Ctrl+H&nbsp;&nbsp;Replace</h5>
-<h5>F3 / Shift+F3&nbsp;&nbsp;Find next/previous</h5>
-<h5>Alt+Enter&nbsp;&nbsp;Select all occurences of Find match</h5>
+| Shortcut      | Description                         |   
+|---------------|-------------------------------------|
+| Ctrl+F        | Find                                |   
+| Ctrl+H        | Replace                             |   
+| F3 / Shift+F3 | Find next/previous                  |   
+| Alt+Enter     | Select all occurences of Find match |   
 
 ## Display
 
-<h5>Ctrl+Shift+E&nbsp;&nbsp;Show Explorer / Toggle focus</h5>
-<h5>Ctrl+Shift+F&nbsp;&nbsp;Show Search</h5>
-<h5>Ctrl+Shift+G&nbsp;&nbsp;Show Source Control</h5>
-<h5>Ctrl+Shift+D&nbsp;&nbsp;Show Debug</h5>
-<h5>Ctrl+Shift+X&nbsp;&nbsp;Show Extensions</h5>
-<h5>Ctrl+Shift+H&nbsp;&nbsp;Replace in files</h5>
-<h5>Ctrl+Shift+J&nbsp;&nbsp; Toggle Search details</h5>
-<h5>Ctrl+Shift+U&nbsp;&nbsp;Show Output panel</h5>
-<h5>Ctrl+Shift+V&nbsp;&nbsp;Open Markdown preview</h5>
+| Shortcut     | Description                  |   
+|--------------|------------------------------|
+| Ctrl+Shift+E | Show Explorer / Toggle focus |   
+| Ctrl+Shift+F | Show Search                  | 
+| Ctrl+Shift+G | Show Source Control          |
+| Ctrl+Shift+D | Show Debug                   |  
+| Ctrl+Shift+X | Show Extensions              |   
+| Ctrl+Shift+H | Replace in files             |   
+| Ctrl+Shift+J | Toggle Search details        |   
+| Ctrl+Shift+U | Show Output panel            |   
+| Ctrl+Shift+V | Open Markdown preview        |   
+
