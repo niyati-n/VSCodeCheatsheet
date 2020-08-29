@@ -173,7 +173,7 @@ This key shortcut to **Toggle breakpoint**.
 
 This key shortcut is to see all **Keyboard Shortcuts**.
 
-<img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Videos/13.gif" width="600" height="300"/>
+<img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Videos/23.gif" width="600" height="300"/>
  
  ---
 
