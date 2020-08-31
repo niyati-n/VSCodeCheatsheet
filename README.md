@@ -153,7 +153,7 @@ This key shortcut is to **Split editor** and **Focus into 1st, 2nd or 3rd editor
 <h4>
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Images/visual-studio-code-logo-png-transparent.png" alt="VSCode" width="20" height="20" /> Ctrl+ / </h4>
 
-This key shortcut is for **HTML comment**.
+This key shortcut is for **comment language specific**.
 
 <img src="https://github.com/blackcrabb/VSCodeCheatsheet/blob/master/Videos/16.gif" width="600" height="300"/>
 <h4>
